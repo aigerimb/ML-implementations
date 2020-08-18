@@ -12,3 +12,4 @@ The script does not use any ready libraries and performs backpropagation for tra
 ![autoencoder0 5](https://user-images.githubusercontent.com/25514362/90460225-74c3d800-e0d1-11ea-89a1-6f4389514886.png)
 
 3. "resnet_fc.py" performs multi-class classification on Birds dataset using pretrained ResNet. After data augmentation, images are passed through pretrained Resnet with additional not-trained layers. The results of training can be found in "results/fc_loss.png". 
+![fc_loss](https://user-images.githubusercontent.com/25514362/90460454-cec49d80-e0d1-11ea-914c-665222892073.png)
